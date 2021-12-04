@@ -1,0 +1,42 @@
+input{
+    width: 220px;
+    background-color:transparent;
+ outline-style: none;
+ color:#5E747F;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+border-bottom: 2px solid #1A1B41;
+margin: auto;
+margin-bottom: 5%;
+font-size: 22px;
+}
+body{
+    
+    background-image: url('./imgs/abbe-sublett-nxZDMUQhN4o-unsplash.jpg');
+background-position: center;
+background-repeat: no-repeat;
+height:100%;
+}
+.right{
+border-bottom-left-radius: 5%;
+border-top-left-radius: 5%;
+    padding-top: 15%;
+    background-color: #FBFBF2;
+position: absolute;
+right: 0px;
+width: 50%;
+height: 100%;
+text-align: center;
+}
+.btn{
+    background-color:#1A1B41;
+    color: #FBFBF2;
+width: 150px;
+border-radius: 7%;
+}
+.btn:hover{
+    background-color: #FBFBF2;
+    border: 2px solid #1A1B41;
+    font-weight: bold;
+}
